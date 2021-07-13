@@ -1,0 +1,11 @@
+image{
+    border-radius:25px;
+    height:100px;
+    width:200px;
+    border: dashed;
+}
+
+body{
+    background-position:center;
+    background-image:url(../images/images2.jpg) no-repeat;
+}
